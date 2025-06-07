@@ -27,4 +27,9 @@ Overall, the Spam Detection project is a valuable implementation for understandi
 
 ##OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/07ea022d-23c1-4a9f-8412-603de25e3b50)
+
+
+
+![Image](https://github.com/user-attachments/assets/cc2de7a7-c835-478d-9dfa-3729091b1040)
 
